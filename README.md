@@ -7,6 +7,8 @@ SkillFactory-Python8-FinalTask
 
 2.[Проверка количества попыток](https://github.com/ossolnce/SF_ds_python8_game_guess_the_number/blob/main/%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%20%D0%BA%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%BF%D0%BE%D0%BF%D1%8B%D1%82%D0%BE%D0%BA.py)
 
+3.[Посмотреть, как работает](https://github.com/ossolnce/SF_ds_python8_game_guess_the_number/blob/main/game.ipynb)
+
 
 **Описание задачи:** угадать число меньше, чем за 20 попыток
 
